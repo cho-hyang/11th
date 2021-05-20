@@ -119,5 +119,5 @@ public class JobSchedule {
 
 ## 5. 코드 실행
 
-![실행파일](C:\Users\CHOHYANG\Desktop\컴퓨터알고리즘\210520 과제\실행파일.PNG)
+![실행파일](https://user-images.githubusercontent.com/80511265/118909888-9ef73e80-b95e-11eb-90ad-89580ff5ddd2.PNG)
 
